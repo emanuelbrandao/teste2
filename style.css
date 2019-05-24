@@ -1,0 +1,64 @@
+.menu{
+	 margin-bottom: 0;
+      border-radius: 0;
+      border: 1px solid #CDC9C9;
+      background-color: #FFF;
+      border-bottom: 3px solid #CDC9C9;
+      border-radius: 3px;
+      height: 130px;
+}
+.logo{
+	margin-top: 10px;
+	margin-left: 10px;	
+}
+.menuright{
+	margin-left: 1000px;
+	margin-top: -40px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 15px;
+	word-spacing: 2px;
+}
+
+.pesquisa{
+	margin-top: 30px;
+	margin-left: 500px;
+}
+input{
+	border:1px solid #cdc9c9;
+	border-radius:3px;
+	height: 20px;
+	width: 300px;
+}
+button{
+	border:1px solid;
+	border-radius:3px;
+	background-color: #000;
+	color: #fff;
+	height: 30px;
+	width: 170px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.icones{
+	margin-top: 5px;
+	margin-left: 600px;
+	word-spacing: 20px;
+}
+i{
+	font-size: 25px;
+}
+a:link{
+	text-decoration:none;
+	color:#a9a9a9;
+}
+a:visited {
+	text-decoration:none;
+	color:#a9a9a9;
+}
+a:active { 
+	color: #a9a9a9; 
+	text-decoration: none; 
+}
+a:hover {
+	color: #a9a9a9;
+	text-decoration:none;
+}
