@@ -3,9 +3,10 @@
       border-radius: 0;
       border: 1px solid #CDC9C9;
       background-color: #FFF;
-      border-bottom: 3px solid #CDC9C9;
+      border-bottom: 40px solid #0000ff;
       border-radius: 3px;
       height: 170px;
+      font-family: 'Source Sans Pro', sans-serif;
 }
 .logo{
 	margin-top: 10px;
@@ -22,8 +23,8 @@
 input{
 	border:1px solid #cdc9c9;
 	border-radius:3px;
-	height: 20px;
-	width: 300px;
+	height: 30px;
+	width: 210px;
 }
 button{
 	border:1px solid;
@@ -34,11 +35,36 @@ button{
 	width: 170px;
 	font-family: 'Roboto Condensed', sans-serif;
 }
-.faleconosco{
+.rodape{
 	margin-top: -190px;
 	float: right; 
-	width: 30%;
+	width: 40%;
 	height: 100%;
+	font-size: 13px;
+}
+.rodape1{
+	width: 30%;
+	margin-top: 25px;
+}
+.rodape2{
+	width: 30%;
+	margin-top: -85px;
+	margin-left: 150px;
+}
+.rodape3{
+	width: 30%;
+	margin-top: -115px;
+	margin-left: 280px;
+}
+.rodape4{
+	margin-top: -20px; 
+	margin-left: 20px;	
+}
+.icones{
+	float: right;
+	margin-top: -40px;
+	margin-right: 80px;
+	word-spacing: 10px;
 }
 i{
 	font-size: 25px;
