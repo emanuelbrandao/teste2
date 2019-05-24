@@ -9,18 +9,10 @@
 }
 .logo{
 	margin-top: 10px;
-	margin-left: 10px;	
+	margin-left: 600px;	
 }
-.menuright{
-	margin-left: 1000px;
-	margin-top: -40px;
-	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 15px;
-	word-spacing: 2px;
-}
-
 .pesquisa{
-	margin-top: 30px;
+	margin-top: 20px;
 	margin-left: 500px;
 }
 input{
