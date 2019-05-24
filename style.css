@@ -5,15 +5,19 @@
       background-color: #FFF;
       border-bottom: 3px solid #CDC9C9;
       border-radius: 3px;
-      height: 130px;
+      height: 170px;
 }
 .logo{
 	margin-top: 10px;
-	margin-left: 600px;	
+	margin-left: 10px;	
+	width: 30%;
+	height: 100%;
 }
-.pesquisa{
-	margin-top: 20px;
+.sobre{
+	margin-top: -190px;
 	margin-left: 500px;
+	width: 30%;
+	height: 100%;
 }
 input{
 	border:1px solid #cdc9c9;
@@ -30,10 +34,11 @@ button{
 	width: 170px;
 	font-family: 'Roboto Condensed', sans-serif;
 }
-.icones{
-	margin-top: 5px;
-	margin-left: 600px;
-	word-spacing: 20px;
+.faleconosco{
+	margin-top: -190px;
+	float: right; 
+	width: 30%;
+	height: 100%;
 }
 i{
 	font-size: 25px;
